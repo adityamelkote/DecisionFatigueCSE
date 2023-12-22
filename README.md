@@ -29,8 +29,6 @@ The project also uses various tools and libraries, such as:
 
 - Pandas, NumPy, and SciPy for data manipulation and analysis.
 - Surprise, a Python library for building and testing recommender systems.
-- Markdown, HTML, and LaTeX for writing and formatting the README file.
-- readme.so, a website that helps create a README file for GitHub projects.
 
 ## Installation
 
